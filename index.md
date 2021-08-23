@@ -27,7 +27,7 @@ sections:
       button: Button text
       url: /faq/
   - resources:
-      title: "Vote Your Favourite "
+      title: "Choose "
       subtitle: Current Events
       button: Click Here to Vote
 ---
