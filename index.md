@@ -21,7 +21,7 @@ sections:
           description: ""
           url: ""
   - resources:
-      title: "Choose "
+      title: Choose your favourite event
       subtitle: Current Events
       button: Click Here to Vote
 ---
