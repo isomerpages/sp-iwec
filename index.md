@@ -27,7 +27,7 @@ sections:
       button: Button text
       url: /faq/
   - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
+      title: "Vote Your Favourite "
+      subtitle: Current Events
+      button: Click Here to Vote
 ---
