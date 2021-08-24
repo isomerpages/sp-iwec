@@ -4,12 +4,11 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Looking Forward on 10th Sept for Leather Crafting by the epic
 sections:
   - hero:
       title: INDT EVENTS
       background: /images/DSC_0528.jfif
-      url: /contact-us/
       key_highlights:
         - title: Past Events
           description: Click to view Photos Gallery
@@ -24,4 +23,12 @@ sections:
       title: Choose your favourite event
       subtitle: Current Events
       button: Click Here to Vote
+  - infopic:
+      title: Work- Rest Balance
+      subtitle: You must work & You must rest
+      description: Forget Work-Life Balance, Find a Work-Rest Balance
+      button: "To know more "
+      url: https://youtu.be/BEhksY-DO1o
+      image: /images/work-life-balance.jpg
+      alt: Image alt text
 ---
