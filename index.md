@@ -22,7 +22,7 @@ sections:
   - resources:
       title: Choose your favourite event
       subtitle: Current Events
-      button: Click Here to Vote
+      button: More resources
   - infopic:
       title: Work- Rest Balance
       subtitle: You must work & You must rest
