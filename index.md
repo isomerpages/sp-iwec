@@ -19,7 +19,7 @@ sections:
         - title: Coming Soon
           description: ""
           url: ""
-      button: Contact US
+      button: IWEC Members
       url: /contactus/
   - resources:
       title: Choose your favourite event
