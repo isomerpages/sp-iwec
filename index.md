@@ -20,7 +20,7 @@ sections:
           description: ""
           url: ""
       button: IWEC Members
-      url: /contactus/
+      url: /members/
   - resources:
       title: Choose your favourite event
       subtitle: Current Events
