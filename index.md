@@ -19,6 +19,8 @@ sections:
         - title: Coming Soon
           description: ""
           url: ""
+      button: Contact US
+      url: ddd
   - resources:
       title: Choose your favourite event
       subtitle: Current Events
