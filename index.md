@@ -34,7 +34,7 @@ sections:
   - infopic:
       title: We'd like to hear from you.
       subtitle: Vote for Team Bonding
-      button: Button Text
+      button: Vote Now
       url: https://www.form.gov.sg/612390b5e6bf450012d25fa7
       image: /images/choose.jpg
       alt: formsg event vote
