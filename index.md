@@ -20,7 +20,7 @@ sections:
           description: ""
           url: ""
       button: Contact US
-      url: ddd
+      url: /contactus/
   - resources:
       title: Choose your favourite event
       subtitle: Current Events
