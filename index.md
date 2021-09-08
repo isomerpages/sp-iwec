@@ -31,4 +31,17 @@ sections:
       url: https://youtu.be/BEhksY-DO1o
       image: /images/work-life-balance.jpg
       alt: Image alt text
+  - infopic:
+      title: We'd like to hear from you.
+      subtitle: Vote for Team Bonding
+      button: Button Text
+      url: https://www.form.gov.sg/612390b5e6bf450012d25fa7
+      image: /images/choose.jpg
+      alt: formsg event vote
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
