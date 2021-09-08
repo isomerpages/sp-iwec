@@ -2,3 +2,5 @@ logo: /images/SP_Marketing_Logo_Main_RGB_FullColour_on_white_bg.png
 links:
   - title: ContactUs
     resource_room: true
+  - title: ContactUS
+    url: /contactus
