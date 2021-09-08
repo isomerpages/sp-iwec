@@ -38,10 +38,4 @@ sections:
       url: https://www.form.gov.sg/612390b5e6bf450012d25fa7
       image: /images/choose.jpg
       alt: formsg event vote
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
