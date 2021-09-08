@@ -1,10 +1,2 @@
 logo: /images/SP_Marketing_Logo_Main_RGB_FullColour_on_white_bg.png
-links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Collection
-    collection: example-collection
-  - title: Resource
-    resource_room: true
+links: []
