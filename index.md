@@ -22,8 +22,8 @@ sections:
       button: IWEC Members
       url: /members/
   - resources:
-      subtitle: Current Events
       button: More resources
+      title: Current Events
   - infopic:
       title: We'd like to hear from you.
       subtitle: Vote for Team Bonding
