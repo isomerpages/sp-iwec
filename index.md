@@ -22,7 +22,6 @@ sections:
       button: IWEC Members
       url: /members/
   - resources:
-      title: Choose your favourite event
       subtitle: Current Events
       button: More resources
   - infopic:
